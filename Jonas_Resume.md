@@ -26,7 +26,7 @@ Always involved and Leading disruptive and innovation projetcs aligned with bus
 Currently managing high performance teams for a digital transformation at Localiza Hertz 
 ```
 
-# 2 - MAIN SKILLS
+## 1.2 - MAIN SKILLS
 - IaC - Infra as Code
 - Kubernetes
 - Docker
