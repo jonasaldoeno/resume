@@ -1,6 +1,6 @@
 # JONAS SOARES
 
-# 1 - My info
+# 1 - My info. TL;DR
 ```
 Main Areas: 
  - DevOps
