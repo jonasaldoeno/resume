@@ -21,7 +21,8 @@ LinkedIn: https://www.linkedin.com/in/jonas-soares/
 ## 1.1 - Summary
 ```
 IT Specialist with 10+ years of experience.  
-Always involved and Leading disruptive and innovation projetcs aligned with business needs and market best practices. Currently managing high performance teams for a digital transformation at Localiza Hertz 
+Always involved and Leading disruptive and innovation projetcs aligned with business needs and market best practices. 
+Currently managing high performance teams for a digital transformation at Localiza Hertz 
 ```
 
 # 2 - MAIN SKILLS
