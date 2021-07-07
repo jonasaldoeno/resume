@@ -6,6 +6,7 @@ Main Areas:
  - DevOps
  - Cloud
  - IP Networks
+
 Main Roles: 
  - Team Leader 
  - Architect
