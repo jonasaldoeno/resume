@@ -28,11 +28,13 @@ Currently managing high performance teams for a digital transformation at Locali
 # 2 - MAIN SKILLS
 - IaC - Infra as Code
 - Kubernetes
-- Cloud AWS
 - Docker
 - CI/CD Tools
+- AWS
+- Azure
 - Cloud architecture
 - Management 3.0
+- Agile Coaching
 - Data Analytcs 
 - Business Intelligence
 - IP Networks and Connectivity
