@@ -9,6 +9,7 @@ Main Areas:
 Main Roles: 
  - Team Leader 
  - Architect
+ - Tech Leader
 
 Contacts:
 Av. Dep. Cristovam Chiaradia 391, Bairro Buritis, Belo Horizonte - MG
