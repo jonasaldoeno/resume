@@ -59,15 +59,17 @@ Always involved and Leading disruptive and innovation projetcs aligned with bus
 # 4 - EXPERIENCE
 
 ## 4.1 - Devop/Cloud Manager 2020 - now
-DevOps and Cloud Team Manager - 2021
-Leader of Cloud and DevOps Teams
-Senior IT Architect
+Roles:
+- DevOps and Cloud Team Manager - 2021
+- Leader of Cloud and DevOps Teams
+- Senior IT Architect
 
 
 ## 4.2 - Devops Architect at Localiza's Digital Transformation Initiative - 2019 - 2020
-Cloud & Kubernetes architect
-Agile Coaching
-IaC specialist
+Roles:
+- Cloud & Kubernetes architect
+- Agile Coaching
+- IaC specialist
 
 
 ## 4.3 - IT Specialist - 2018
