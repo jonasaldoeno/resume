@@ -6,7 +6,7 @@
 ```
 Main Areas: 
  - DevOps
- - Cloud
+ - Cloud architecture
  - IP Networks
 
 Main Roles: 
@@ -31,7 +31,6 @@ Currently managing high performance teams for a digital transformation at Locali
 ## 1.2 - MAIN SKILLS
 - IaC - Infra as Code
 - Kubernetes
-- Docker
 - CI/CD Tools
 - AWS
 - Azure
