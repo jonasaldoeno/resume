@@ -25,7 +25,7 @@ LinkedIn: https://www.linkedin.com/in/jonas-soares/
 
 ## 1.1 - Summary
 ```
-IT Manager and architect with high techinical background and 10+ years of experience.  
+IT Manager and Architect with high techinical background and 15+ years of experience.  
 Always involved and Leading disruptive and innovation projetcs aligned with business needs and market best practices. 
 Currently managing high performance teams for a digital transformation at Localiza Rent a Car
 ```
