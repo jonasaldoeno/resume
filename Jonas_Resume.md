@@ -65,7 +65,7 @@ Currently managing high performance teams for a digital transformation at Locali
 ## 3.1 - Localiza Rent a Car
 **Period**: Jan/2010 till now <br>
 **Role**: IT Manager <br>
-**Main responsabilities: 
+**Main responsabilities:** 
 - People Management 
 - Technology Roadmap
 - FinOps
@@ -76,7 +76,7 @@ Currently managing high performance teams for a digital transformation at Locali
 
 **Period**: Jan/2020 - Abr/2021 <br>
 **Role**: IT Leader <br>
-**Main responsabilities:
+**Main responsabilities:**
 - Cloud & Kubernetes architect
 - Agile Coaching
 - IaC specialist
@@ -84,7 +84,7 @@ Currently managing high performance teams for a digital transformation at Locali
 
 **Period**: Jan/2020 - Abr/2021 <br>
 **Role**: Cloud Infrastructure Specialist <br>
-**Main responsabilities:
+**Main responsabilities:**
  - Cloud Infrastructure Architecture
  - FinOps
  - Power BI Instructor
@@ -93,13 +93,13 @@ Currently managing high performance teams for a digital transformation at Locali
 
 **Period**: Jan/2020 - Abr/2021 <br>
 **Role**: Cloud Infrastructure Specialist <br>
-**Main responsabilities:
+**Main responsabilities:**
  - IT Projetcs and infrastructure architecture
 
 
 **Period**: Jan/2020 - Abr/2021 <br>
 **Role**: Cloud Infrastructure Specialist <br>
-**Main responsabilities:
+**Main responsabilities:**
  - IP Networks design, management and monitoring
  - Improve new branch offices opening process
  - Improve IP Network monitoring
@@ -108,7 +108,7 @@ Currently managing high performance teams for a digital transformation at Locali
 
 **Period**: Jan/2020 - Abr/2021 <br>
 **Role**: Cloud Infrastructure Specialist <br>
-**Main responsabilities:
+**Main responsabilities:**
  - GRUPO OMNIBUS - IT
  - System Analyst
  - IP Networks design, management and monitoring.
