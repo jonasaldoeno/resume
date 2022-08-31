@@ -4,15 +4,17 @@
 
 ## 1.1 - My Info
 ```
-Main Areas: 
+Main Areas:
+ - IT and People Management
  - DevOps
+ - Software architecture
  - Cloud architecture
  - IP Networks
 
 Main Roles: 
- - Team Leader 
- - Architect
- - Tech Leader
+ - IT Manager
+ - IT Architect
+
 
 Contacts:
 Av. Dep. Cristovam Chiaradia 391, Bairro Buritis, Belo Horizonte - MG
@@ -29,66 +31,70 @@ Currently managing high performance teams for a digital transformation at Locali
 ```
 
 ## 1.2 - MAIN SKILLS
-- IaC - Infra as Code
-- Kubernetes
-- CI/CD Tools
-- AWS
-- Azure
-- Cloud architecture
-- Management 3.0
-- Agile Coaching
-- Data Analytcs 
+- DevOps (Practices, Tools and Culture)
+- Cloud Architecture
+- IT Management
 - Business Intelligence
 - IP Networks and Connectivity
-- Airplane Comercial Pilot
+- Airplane Comercial Pilot (Dream that came true and favorite Hobby)
 
 
 # 2 - EDUCATION
 
-## 2.1 - POSTGRADUATE STUDIES - SOFTWARE TESTING TECHNIQUES - UFMG
+## 2.1 - EDP/MBA - Executive Development Programan - FDC (Fundação Dom Cabral)
+2022-07 - 2023-01
+
+## 2.2 - POSTGRADUATE STUDIES - SOFTWARE TESTING TECHNIQUES - UFMG
 2021-02 - 2021-07
 
-## 2.2 - MBA - LEADERSHIP AND TEAM MANAGEMENT  - FGV
+## 2.3 - MBA - LEADERSHIP AND TEAM MANAGEMENT  - FGV
 2018-06 - 2020-08
 
-## 2.3 - POSTGRADUATE STUDIES - PROJECT MANAGEMENT - IETEC BH
+## 2.4 - POSTGRADUATE STUDIES - PROJECT MANAGEMENT - IETEC BH
 2009-02 - 2009-10
 
-## 2.4 - POSTGRADUATE STUDIES - TELECOMMUNICATIONS NETWORKS - UFMG
+## 2.5 - POSTGRADUATE STUDIES - TELECOMMUNICATIONS NETWORKS - UFMG
 2008-02 - 2008-12
 
-## 2.5 - TELECOMMUNICATION ENGINEERING - UNI-BH
+## 2.6 - TELECOMMUNICATION ENGINEERING - UNI-BH
 2002-02 - 2007-12
 
 
 # 3 - EXPERIENCE
 
-## 3.1 - Devop/Cloud Manager 2020 - now
-Roles:
+## 3.1 - Localiza Rent a Car -> 2010 - now
+Role: IT Manager
+Period: Jan/2010 till now
+Main responsabilities:
 - DevOps and Cloud Team Manager - 2021
 - Leader of Cloud and DevOps Teams
 - Senior IT Architect
 
 
-## 3.2 - Devops Architect at Localiza's Digital Transformation Initiative - 2019 - 2020
+## 3.3 - Devops Architect at Localiza's Digital Transformation Initiative - 2019 - 2020
+Company: Localiza Rent a Car
 Roles:
 - Cloud & Kubernetes architect
 - Agile Coaching
 - IaC specialist
 
 
-## 3.3 - IT Specialist - 2018
-Business and IT Analytics
-IT Architecture
-Power BI Instructor
-OKR and KPIs Instructor
+## 3.4 - IT Specialist - 2018
+Company: Localiza Rent a Car
+Roles:
+ - Business and IT Analytics
+ - IT Architecture
+ - Power BI Instructor
+ - OKR and KPIs Instructor
 
 
-## 3.4 - Senior Infrastructure Analyst - 2013
-IT Projetcs and infrastructure architecture
+## 3.5 - Senior Infrastructure Analyst - 2013
+Company: Localiza Rent a Car
+Roles:
+ - IT Projetcs and infrastructure architecture
 
 
-## 3.5 - Infrastructure Analyst - 2009
+## 3.6 - Infrastructure Analyst - 2009 - 2013
 IP Networks design, management and monitoring
 Improve new branch offices opening process
 Improve IP Network monitoring
@@ -99,21 +105,21 @@ IP Networks design, management and monitoring.
 IP Telephony design and management.
 
 
-## 3.6 - NETSERVICE - FIELD SERVICE - 2008-05 - 2008-11
+## 3.7 - NETSERVICE - FIELD SERVICE - 2008-05 - 2008-11
 IP Networks design, management and monitoring.
 IP Telephony design and management.
 Cisco Support.
 Linux Support.
 
 
-## 3.7 - MICROCITY - RESEARCH & DEVELOPMENT 2008-03 - 2008-09
+## 3.8 - MICROCITY - RESEARCH & DEVELOPMENT 2008-03 - 2008-09
 Outside Consultant:
 - Design and implementation of a low cost IP network and Telephony infrastructure to be used between the company and it's clients.
 - Project definitions and implementation to replace the current VOIP and IP Telephony of the company.
 - Training employees: Linux Systems, Telephony (TDM and IP) and Asterisk.
 
 
-## 3.8 - FUNDACAO EDUCACIONAL DE DIVINOPOLIS - FUNEDI - IT - 2009-01 - 2009-11
+## 3.9 - FUNDACAO EDUCACIONAL DE DIVINOPOLIS - FUNEDI - IT - 2009-01 - 2009-11
 Outside consultant: 
 - Design and implementation of the campus IP Network infrastructure, management and monitoring
 - Implementation of new IP network security features: VPN, Web Filter and internal firewall
@@ -121,7 +127,7 @@ Outside consultant: 
 - Implementation of new backup/restore solution and process.
 
 
-## 3.9 - INSTITUTO ONLINE - TRAINING - 2008-04 - 2008-06
+## 3.10 - INSTITUTO ONLINE - TRAINING - 2008-04 - 2008-06
 Instructor:
 - Network Management and Monitoring with Zabbix
   EMPRESA DE INFOVIAS S.A. (CEMIG TELECOM) - IT
@@ -132,7 +138,7 @@ Instructor:
 - Development of the company&#39;s client network managment software, based on PHP and MySQL.
 
 
-## 3.10 - EMPRESA DE INFOVIAS S.A. (CEMIG TELECOM) - IT - 2005-07 - 2006-06
+## 3.11 - EMPRESA DE INFOVIAS S.A. (CEMIG TELECOM) - IT - 2005-07 - 2006-06
 Network Engeneer:
 - Managing and sizing IP backbones;
 - Planning infrastructure for customers IP services (data and voice)
