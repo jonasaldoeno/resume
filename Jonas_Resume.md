@@ -63,13 +63,13 @@ Currently managing high performance teams for a digital transformation at Locali
 # 3 - EXPERIENCE
 
 ## 3.1 - Localiza Rent a Car
-**Period**: Jan/2010 till now <br>
+**Period**: Abr/2021 till now <br>
 **Role**: IT Manager <br>
 **Main responsabilities:** 
 - People Management 
-- Technology Roadmap
+- Technology Roadmap based on business drivers
 - FinOps
-- Increase Autonomy of Devs teams keeping governance and security
+- Increase Autonomy of Dev teams keeping governance and security
 - Increase software lifecycle speed
 - Standardization of IT Platforms to the company faster usage
 
@@ -77,9 +77,11 @@ Currently managing high performance teams for a digital transformation at Locali
 **Period**: Jan/2020 - Abr/2021 <br>
 **Role**: IT Leader <br>
 **Main responsabilities:**
-- Cloud & Kubernetes architect
-- Agile Coaching
-- IaC specialist
+- People Management 
+- Technology Roadmap and lifecycle
+- Increase Autonomy of Dev teams keeping governance and security
+- Increase software lifecycle speed
+- Standardization of IT Platforms to the company faster usage
 
 
 **Period**: Jan/2020 - Abr/2021 <br>
