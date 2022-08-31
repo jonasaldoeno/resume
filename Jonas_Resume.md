@@ -2,7 +2,7 @@
 
 # 1 - TL;DR
 
-## 1.1 - My Info
+## 1.1 - About me
 ```
 Main Areas:
  - IT and People Management
@@ -62,35 +62,38 @@ Currently managing high performance teams for a digital transformation at Locali
 
 # 3 - EXPERIENCE
 
-## 3.1 - Localiza Rent a Car -> 2010 - now
-Role: IT Manager
-Period: Jan/2010 till now
-Main responsabilities:
-- DevOps and Cloud Team Manager - 2021
-- Leader of Cloud and DevOps Teams
-- Senior IT Architect
+## 3.1 - Localiza Rent a Car
+**Period**: Jan/2010 till now
+**Role**: IT Manager
+**Main responsabilities:
+- People Management 
+- Technology Roadmap
+- FinOps
+- Increase Autonomy of Devs teams keeping governance and security
+- Increase software lifecycle speed
+- Standardization of IT Platforms to the company faster usage
 
 
-## 3.3 - Devops Architect at Localiza's Digital Transformation Initiative - 2019 - 2020
-Company: Localiza Rent a Car
-Roles:
+**Period**: Jan/2020 - Abr/2021
+**Role**: IT Leader
+**Main responsabilities:
 - Cloud & Kubernetes architect
 - Agile Coaching
 - IaC specialist
 
 
-## 3.4 - IT Specialist - 2018
-Company: Localiza Rent a Car
-Roles:
- - Business and IT Analytics
- - IT Architecture
+**Period**: Jan/2020 - Abr/2021
+**Role**: Cloud Infrastructure Specialist
+**Main responsabilities:
+ - Cloud Infrastructure Architecture
+ - FinOps
  - Power BI Instructor
  - OKR and KPIs Instructor
 
 
-## 3.5 - Senior Infrastructure Analyst - 2013
-Company: Localiza Rent a Car
-Roles:
+**Period**: Jan/2020 - Abr/2021
+**Role**: Cloud Infrastructure Specialist
+**Main responsabilities:
  - IT Projetcs and infrastructure architecture
 
 
