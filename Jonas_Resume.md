@@ -63,9 +63,9 @@ Currently managing high performance teams for a digital transformation at Locali
 # 3 - EXPERIENCE
 
 ## 3.1 - Localiza Rent a Car
-**Period**: Jan/2010 till now
-**Role**: IT Manager
-**Main responsabilities:
+**Period**: Jan/2010 till now <br>
+**Role**: IT Manager <br>
+**Main responsabilities: 
 - People Management 
 - Technology Roadmap
 - FinOps
@@ -74,16 +74,16 @@ Currently managing high performance teams for a digital transformation at Locali
 - Standardization of IT Platforms to the company faster usage
 
 
-**Period**: Jan/2020 - Abr/2021
-**Role**: IT Leader
+**Period**: Jan/2020 - Abr/2021 <br>
+**Role**: IT Leader <br>
 **Main responsabilities:
 - Cloud & Kubernetes architect
 - Agile Coaching
 - IaC specialist
 
 
-**Period**: Jan/2020 - Abr/2021
-**Role**: Cloud Infrastructure Specialist
+**Period**: Jan/2020 - Abr/2021 <br>
+**Role**: Cloud Infrastructure Specialist <br>
 **Main responsabilities:
  - Cloud Infrastructure Architecture
  - FinOps
@@ -91,28 +91,38 @@ Currently managing high performance teams for a digital transformation at Locali
  - OKR and KPIs Instructor
 
 
-**Period**: Jan/2020 - Abr/2021
-**Role**: Cloud Infrastructure Specialist
+**Period**: Jan/2020 - Abr/2021 <br>
+**Role**: Cloud Infrastructure Specialist <br>
 **Main responsabilities:
  - IT Projetcs and infrastructure architecture
 
 
-## 3.6 - Infrastructure Analyst - 2009 - 2013
-IP Networks design, management and monitoring
-Improve new branch offices opening process
-Improve IP Network monitoring
-GRUPO OMNIBUS - IT
-2008-11 - 2009-12
-System Analyst
-IP Networks design, management and monitoring.
-IP Telephony design and management.
+**Period**: Jan/2020 - Abr/2021 <br>
+**Role**: Cloud Infrastructure Specialist <br>
+**Main responsabilities:
+ - IP Networks design, management and monitoring
+ - Improve new branch offices opening process
+ - Improve IP Network monitoring
+
+
+
+**Period**: Jan/2020 - Abr/2021 <br>
+**Role**: Cloud Infrastructure Specialist <br>
+**Main responsabilities:
+ - GRUPO OMNIBUS - IT
+ - System Analyst
+ - IP Networks design, management and monitoring.
+ - IP Telephony design and management.
 
 
 ## 3.7 - NETSERVICE - FIELD SERVICE - 2008-05 - 2008-11
-IP Networks design, management and monitoring.
-IP Telephony design and management.
-Cisco Support.
-Linux Support.
+**Period**: Jan/2020 - Abr/2021 <br>
+**Role**: Cloud Infrastructure Specialist <br>
+**Main responsabilities:
+ - IP Networks design, management and monitoring.
+ - IP Telephony design and management.
+ - Cisco Support.
+ - Linux Support.
 
 
 ## 3.8 - MICROCITY - RESEARCH & DEVELOPMENT 2008-03 - 2008-09
